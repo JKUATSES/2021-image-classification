@@ -55,7 +55,28 @@ Preprocessing techniques include
 * Contrast enhancement through
     * Histogram equaliation
      ![image](https://user-images.githubusercontent.com/58877986/134502836-2f388e77-26f2-4dd5-9245-bef88866a718.png)
-
     * CLAHE
      ![image](https://user-images.githubusercontent.com/58877986/134502709-4a817987-5da3-4c62-8a91-7824b0cf8d4e.png)
+     ![image](https://user-images.githubusercontent.com/58877986/134508220-314d477e-da73-4449-a984-86d624668aa1.png)
+    * Data Augmentation - 
+     ![image](https://user-images.githubusercontent.com/58877986/134505411-b3c3922e-46ba-43b7-bd5f-3d1c3b8f2e79.png)
+
+## Building the model 
+The first model used contained 2 layers, and was a CNN built from scratch
+The second model used transfer learning 
+
+# REFERENCES
+* https://medium.com/analytics-vidhya/image-equalization-contrast-enhancing-in-python-82600d3b371c
+* https://www.mygreatlearning.com/blog/introduction-to-image-pre-processing/
+* https://jannik-zuern.medium.com/using-a-tpu-in-google-colab-54257328d7da
+* https://towardsdatascience.com/image-enhancement-techniques-using-opencv-and-python-9191d5c30d45
+* https://machinelearningmastery.com/how-to-control-the-speed-and-stability-of-training-neural-networks-with-gradient-descent-batch-size/
+* https://developers.google.com/machine-learning/practica/image-classification/convolutional-neural-networks
+* https://www.kdnuggets.com/2019/08/introduction-image-segmentation-k-means-clustering.html
+* https://machinelearningmastery.com/how-to-improve-performance-with-transfer-learning-for-deep-learning-neural-networks/
+* https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-model-for-image-classification-b850ca4428d4
+* https://towardsdatascience.com/hacking-your-image-recognition-model-909ad4176247
+* https://towardsdatascience.com/exploratory-data-analysis-ideas-for-image-classification-d3fc6bbfb2d2
+* https://medium.com/analytics-vidhya/opencv-findcontours-detailed-guide-692ee19eeb18
+* https://docs.opencv.org/master/d7/d4d/tutorial_py_thresholding.html
 
