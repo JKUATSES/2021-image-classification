@@ -15,11 +15,11 @@ In this image classification both methods were used comparitively and transfer l
 ## Technologies and frameworks used
 * Languages - Python was used to develop this project
 * Platform - Google Colab
-* Library 
+* Libraries
   * Pandas
   * Numpy
   * Matplotlib
-  * OpenCV, PIL, skimage, 
+  * OpenCV, PIL, skimage, matplotlib
 * Deep learning frameworks
   * Tensorflow 
   * Keras
@@ -55,11 +55,15 @@ Histogram Plots were used to visualize image data
 Preprocessing techniques include 
 * Contrast enhancement through
     * Histogram equaliation
+
+
      ![image](https://user-images.githubusercontent.com/58877986/134502836-2f388e77-26f2-4dd5-9245-bef88866a718.png)
     * CLAHE
+    
      ![image](https://user-images.githubusercontent.com/58877986/134502709-4a817987-5da3-4c62-8a91-7824b0cf8d4e.png)
      ![image](https://user-images.githubusercontent.com/58877986/134508220-314d477e-da73-4449-a984-86d624668aa1.png)
-    * Data Augmentation - 
+    * Data Augmentation 
+    
      ![image](https://user-images.githubusercontent.com/58877986/134505411-b3c3922e-46ba-43b7-bd5f-3d1c3b8f2e79.png)
 
 ## Building the model 
