@@ -1,3 +1,4 @@
+[JKUAT_SES_image_classification.pptx](https://github.com/JKUATSES/2021-image-classification/files/7223054/JKUAT_SES_image_classification.pptx)
 # 2021-image-classification
 Repository to learn image classification
 ## Introduction - A brief on Image Classification
