@@ -63,8 +63,14 @@ Preprocessing techniques include
      ![image](https://user-images.githubusercontent.com/58877986/134505411-b3c3922e-46ba-43b7-bd5f-3d1c3b8f2e79.png)
 
 ## Building the model 
-The first model used contained 2 layers, and was a CNN built from scratch
-The second model used transfer learning 
+The first model used contained 2 layers, and was a CNN built from scratch.
+The second model used transfer learning.
+Here's a comparison of the performance of the two models.
+
+Model | No. Layers | Accuracy
+------------ | ------------- | -------------
+CNN | 2 | 73.4%
+MobileNet(base model) | 154 | 87.5 %
 
 # REFERENCES
 * https://medium.com/analytics-vidhya/image-equalization-contrast-enhancing-in-python-82600d3b371c
